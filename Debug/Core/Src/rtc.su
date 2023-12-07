@@ -1,0 +1,9 @@
+rtc.c:26:6:updateCurrent	24	static
+rtc.c:37:6:timeCounter	8	static
+rtc.c:75:6:displayTime	24	static
+rtc.c:83:6:turnOffNumber	32	static
+rtc.c:104:6:turnOnNumber	32	static
+rtc.c:127:6:timerModifier	8	static
+rtc.c:194:6:timerCountDown	32	static
+rtc.c:237:6:TimerStateMachine	8	static
+rtc.c:253:6:displayCurrentMode	8	static
